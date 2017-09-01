@@ -32,7 +32,7 @@ public class Tarjeta
      * @return saldo variable que se regresa cuando el retiro es realizado 
      * exitosamente con su previo descuento y tembien lo regresa si el 
      * usuario quizo retirar mas de lo que tenia en la tarjeta para que pueda 
-     * ver cuanto es lo que tiene que retirar y este introduzaca una cantidad
+     * ver cuanto es lo que puede retirar y este introduzaca una cantidad
      * menor a la indicada.
      */
     public float retirar(float dinero)
